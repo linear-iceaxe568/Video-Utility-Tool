@@ -59,3 +59,4 @@ capcut, capcut pro, video editing, 4k video editor, ai video editor, content cre
 ## Support
 
 Star this repository if you enjoy it!
+ 
